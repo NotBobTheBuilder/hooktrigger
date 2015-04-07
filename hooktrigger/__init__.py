@@ -1,1 +1,1 @@
-from hooktrigger import main
+from .hooktrigger import main
