@@ -10,7 +10,7 @@ with open(path.join(here, 'DESCRIPTION.rst'), encoding='utf-8') as f:
 setup(
     name='hooktrigger',
 
-    version='0.1.1',
+    version='0.1.2',
 
     description='Run shell commands when GitHub webhooks are fired',
     long_description=long_description,
